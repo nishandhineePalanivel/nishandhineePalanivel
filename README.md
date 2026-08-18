@@ -25,7 +25,7 @@
 - 🤖 Hands-on with **Embedded Systems** — ESP32, Arduino, sensor interfacing
 - 📄 Filed **2 patents**: Fire Safeguard Emergency Robot with GPS & Wastewater Electrocoagulation System
 - 🏆 Shortlisted for **Smart India Hackathon (SIH) 2025** — College Internal Round
-- 🌐 Portfolio: [nishandhinee-portfolio.vercel.app](https://nishandhinee-portfolio.vercel.app)
+- 🌐 Portfolio: [nishandhineeportfolio.vercel.app](https://nishandhineeportfolio.vercel.app)
 
 ---
 
