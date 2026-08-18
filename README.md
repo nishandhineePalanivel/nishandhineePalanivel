@@ -89,6 +89,4 @@ Implemented microcontroller-based applications; applied hardware-software integr
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishandhineePalanivel&theme=tokyonight"/>
-</p>
+![Nishandhinee's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nishandhineePalanivel&theme=tokyo-night)
