@@ -105,25 +105,6 @@ Autonomous robot that detects fire using flame sensors and triggers a water pump
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishandhineePalanivel&theme=tokyo-night&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishandhineePalanivel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishandhineePalanivel&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
-</div>
-
 ## GitHub Statistics
 
 <div align="center">
@@ -141,6 +122,17 @@ Autonomous robot that detects fire using flame sensors and triggers a water pump
 
 <br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishandhineePalanivel&theme=tokyo-night&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishandhineePalanivel&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishandhineePalanivel&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishandhineePalanivel&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
