@@ -104,16 +104,10 @@ Autonomous robot that detects fire using flame sensors and triggers a water pump
 </details>
 
 ---
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nishandhineePalanivel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  ![GitHub Streak](https://streak-stats.demolab.com?          user=nishandhineePalanivel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 <br/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishandhineePalanivel&theme=tokyonight&no-frame=true&row=1&column=7)
-
-<br/>
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishandhineePalanivel&theme=tokyonight)
 
