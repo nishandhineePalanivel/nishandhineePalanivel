@@ -107,15 +107,6 @@ Autonomous robot that detects fire using flame sensors and triggers a water pump
 
 
 
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishandhineePalanivel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishandhineePalanivel&layout=compact&theme=tokyonight&hide_border=true)
-
-<br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=nishandhineePalanivel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 <br/>
