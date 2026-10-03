@@ -16,6 +16,7 @@
 
 ## About Me
 
+
 Final-year **B.E. ECE** student at VSB College of Engineering Technical Campus, Coimbatore — **CGPA 8.74**
 
 I build full-stack and AI-integrated applications, and work with embedded systems at the hardware-software boundary. My work spans from autonomous robots to real-time AI backends.
